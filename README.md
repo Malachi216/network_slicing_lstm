@@ -60,7 +60,6 @@ This project presents a hybrid simulation framework for optimizing traffic in 5G
 ## Authors
 
 - Olaoluwa Malachi – [olaoluwa.malachi@unb.ca](mailto:olaoluwa.malachi@unb.ca)
-- Oscar Chow – [ochow@unb.ca](mailto:ochow@unb.ca)
 
 ---
 
