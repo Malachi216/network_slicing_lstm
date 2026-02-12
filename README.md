@@ -67,7 +67,7 @@ This project presents a hybrid simulation framework for optimizing traffic in 5G
 
 If you use this project for academic purposes, please cite:
 
-> Malachi, O. (2024). *AI & Heuristics Driven Predictive Analytics for Network Traffic Optimization in 5G Wireless Networks*. University of New Brunswick.
+> Malachi, O. & Light, J. (2024). *AI & Heuristics Driven Predictive Analytics for Network Traffic Optimization in 5G Wireless Networks*. University of New Brunswick.
 
 ---
 
